@@ -12,7 +12,7 @@ export async function POST(request: Request) {
 ━━━━━━━━━━━━━━━━━━
 👤 *Имя:* ${name}
 📧 *Email:* ${email}
-📌 *Тема:* ${subject}
+📌 *Темаа:* ${subject}
 ━━━━━━━━━━━━━━━━━━
 💬 *Сообщение:*
 ${message}
